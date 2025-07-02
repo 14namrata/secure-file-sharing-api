@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔐 Secure File Sharing API
 
 A secure REST API built with Python for controlled file sharing between two types of users: **Operations Users** and **Client Users**.
@@ -34,3 +35,6 @@ A secure REST API built with Python for controlled file sharing between two type
 ```bash
 pytest app/tests/test_encryption.py
 
+=======
+# secure-file-sharing-api
+>>>>>>> d7e9a75bed772c870ad730071fd454ed6f509282
