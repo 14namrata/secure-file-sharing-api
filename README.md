@@ -1,6 +1,9 @@
 <<<<<<< HEAD
 # 🔐 Secure File Sharing API
 
+📝 This project was developed as part of the EZ Company Backend Internship Assessment (July 2025).
+
+
 A secure REST API built with Python for controlled file sharing between two types of users: **Operations Users** and **Client Users**.
 
 ---
